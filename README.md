@@ -26,23 +26,15 @@ Iris Dataset (loaded via `sklearn.datasets.load_iris`) — 150 samples, 4 featur
 6. Evaluated the best model using accuracy score, classification report, and confusion matrix.
 7. Visualized decision boundaries using 2 features for interpretability.
 
+
 ## 📊 Results
 
 - Baseline accuracy (K=5): **XX%**
 - Best K found: **K = X**
 - Best accuracy: **XX%**
 
-### Accuracy vs K
+(Accuracy vs K, confusion matrix and decision boundary plots are in the notebook.)
 
-![Accuracy vs K](screenshots/accuracy_vs_k.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](screenshots/confusion_matrix.png)
-
-### Decision Boundary
-
-![Decision Boundary](screenshots/decision_boundary.png)
 
 ## 📖 What I Learned
 
